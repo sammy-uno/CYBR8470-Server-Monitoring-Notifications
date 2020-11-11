@@ -21,10 +21,9 @@ The server monitoring services will run as a Spring Boot micro services on the s
 The Server Monitoring Notifications app will be tested using an Android device. If time permits, I will again test the app using the web client version produced from the same codebase.  
 
 ## Installation
-Installation
------------- 
-Instructions for end-user
--------------------------
+ 
+###Instructions for end-user
+
 - User will need to install the Server Monitoring Notifications Android Package Kit (APK) on the Android mobile device.  
 Not needed - User will need to signup to the app using an email address and password combination.
 Not needed - User will receive a verification email sent to the email address used during the signup. 
