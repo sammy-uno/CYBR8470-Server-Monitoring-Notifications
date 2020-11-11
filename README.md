@@ -22,22 +22,15 @@ The Server Monitoring Notifications app will be tested using an Android device. 
 
 ## Installation
  
-###Instructions for end-user
+**Instructions for end user**
+* User will need to install the Server Monitoring Notifications Android Package Kit (APK) on the Android mobile device.  
 
-- User will need to install the Server Monitoring Notifications Android Package Kit (APK) on the Android mobile device.  
-Not needed - User will need to signup to the app using an email address and password combination.
-Not needed - User will receive a verification email sent to the email address used during the signup. 
-Not needed - User will need to confirm the email address by clicking the link sent in the verification email.
+**Instructions for admin user**
 
-Instructions for admin user
----------------------------
-
-- Admin user will need to create the list of app users in Firestore Authentication services using email address/password 
-  authentication mechanism. 
-
-No need - Admin user has access to the user sign in authentication information stored on the Firestore database. 
-  Admin functions such as password reset, disable account and delete account are available.
+* Admin user will need to create the list of app users in Firestore Authentication services using email address/password authentication mechanism. The password will be the default password and it can be reset by the end user. 
   
-- Admin user will need to set up a cloud Firestore database users collection . 
+* Admin user will need to set up a cloud Firestore database users collection.  
   This NoSQL database collection will have the following user fields: uid, email, fcmToken (device or web client FCM registration key)
+  
+* Admin user will need to set up the Firestore Cloud Messaging.  
 
