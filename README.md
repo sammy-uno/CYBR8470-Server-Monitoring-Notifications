@@ -44,6 +44,13 @@ Copyright (C) Mustapha Friha 2020.
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This app is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
 
+## User Stories
+* As a User, I am presented with a page to register/login to the app on Android phone  
 
+* As a non registered User, I can register as a new User to the app on Android phone  
+  **Acceptance Criteria:**
+    * User able to register as a new User to the app if User Id does not exist
+    * Duplicate User Id displays error message to the User
+    * Email registration confirmation sent
 
 
