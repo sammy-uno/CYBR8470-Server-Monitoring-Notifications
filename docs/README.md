@@ -52,7 +52,9 @@ As a **Malicious User**, I want to **inject fake notifications**, so I can **ale
 
 **Mockup pages**
 
-![Mockup pages](images/mockup_pages.jpg "Mockup pages")  
+![Mockup pages](images/mockup_pages.jpg "Mockup pages") 
+  
+  
 
 **Architecture diagram**
 
