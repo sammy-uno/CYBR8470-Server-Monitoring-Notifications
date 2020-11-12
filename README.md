@@ -45,7 +45,11 @@ Copyright (C) Mustapha Friha 2020.
 
 
 ## User Stories
-* As a User, I am presented with a page to register/login to the app on Android phone  
+* As a User, I am presented with a page to login to the app on Android phone
+
+As a **User**, I want to **login to the app** so I can **vieww the server monitoring notifications**.
+** Acceptance criteria**
+
 
 * As a non registered User, I can register as a new User to the app on Android phone  
   **Acceptance Criteria:**
