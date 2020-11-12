@@ -54,7 +54,7 @@ As a **Malicious User**, I want to **inject fake notifications**, so I can **ale
 
 ![Mockup pages](images/mockup_pages.jpg "Mockup pages") 
   
-  
+ <br/> 
 
 **Architecture diagram**
 
