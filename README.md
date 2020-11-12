@@ -92,5 +92,15 @@ As a **Malicious User**, I want to **hack access to the app using someone else's
 **Mitigation criteria**
    * Password can only be changed from the email sent to the user. If hacker does not have access to the email then password reset will not succeed. 
 
+As a **Malicious User**, I want to **sign up to have access to the app** so I can **log in to the app and review the server notifications**.  
+**Mitigation criteria**
+   * Users list are set and maintained by the app Admin. Signing up is not an option available.
+   
+As a **Malicious User**, I want to **inject fake notifications** so I can **alarm the app real users**.  
+**Mitigation criteria**
+   * OAUTH 2.0 authorization framework is used to communicate between the different components of the app.
+   
+## Diagrams
+
 
 
