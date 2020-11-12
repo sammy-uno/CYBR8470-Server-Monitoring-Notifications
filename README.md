@@ -80,13 +80,7 @@ As a **Admin**, I want to **have access to the app Firebase console** so I can *
    * Admin user has read/write access to the Firebase console and can manage the app Firebase services. 
 
 ## Mis-user stories
-As a malicious user, I can reset the password of a valid email address to access the app
-Password reset ---> email sent to confirm ????
-
-As a malicious user, I want to sign up to have access to the app
-
-As a malicious user, I want to inject false server monitoring notifications
-Google supports OAuth 2.0 as the recommended authorization mechanism for all of its APIs.
+I will assume that server monitoring notification has sensitive informations like server names. 
 
 As a **Malicious User**, I want to **hack access to the app using someone else's email by resetting the password** so I can **log in to the app and review the server notifications**.  
 **Mitigation criteria**
@@ -102,5 +96,6 @@ As a **Malicious User**, I want to **inject fake notifications** so I can **alar
    
 ## Diagrams
 
+![Mockup pages](images/mockup_pages.png "Mockup pages")
 
 
