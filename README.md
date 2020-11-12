@@ -45,39 +45,38 @@ Copyright (C) Mustapha Friha 2020.
 
 
 ## User Stories
-* As a User, I am presented with a page to login to the app on Android phone
 
 As a **User**, I want to **view the login page on Android phone** so I can **log in to the app**.  
-** Acceptance criteria**
+**Acceptance criteria**
    * Login page is displayed
 
 As a **User**, I want to **reset my default app password** so I can **log in to the app with the new password**.  
-** Acceptance criteria**
+**Acceptance criteria**
    * Reset password link displayed on the Login page
    * Clicking on the reset password link will send an email to the user to change the password
    * User is able to login using the new password
 
 As a **User**, I want to **log in to the app** so I can **view the notifications**.  
-** Acceptance criteria**
+**Acceptance criteria**
    * User is able to login using his credentials (email/password)
    * Error message is displayed in case of logging error (wrong email or password)
    
 As a **User**, I want to **view the list of notifications** so I can **review the server issues**.  
-** Acceptance criteria**
+**Acceptance criteria**
    * The list page of notifications is displayed. 
    * The list is refreshed automatically when new notifications are added
    * The list page contain a link to view the notification detail
 
 As a **User**, I want to **view the detail of the notification** so I can **take action on the server to resolve the issue**.  
-** Acceptance criteria**
+**Acceptance criteria**
    * The notification detail page is displayed. 
    
-As a **Admin**, I want to **start/stop the Spring Boot micro services** so I can **send/stop server notifications**.
-** Acceptance criteria**
+As a **Admin**, I want to **start/stop the Spring Boot micro services** so I can **send/stop server notifications**.  
+**Acceptance criteria**
    * Admin user has shell script available to start/stop the Spring Boot micro services. 
 
-As a **Admin**, I want to **have access to the app Firebase console** so I can **manage the users and server notifications**.
-** Acceptance criteria**
+As a **Admin**, I want to **have access to the app Firebase console** so I can **manage the users and server notifications**.  
+**Acceptance criteria**
    * Admin user has read/write access to the Firebase console and can manage the app Firebase services. 
 
 
