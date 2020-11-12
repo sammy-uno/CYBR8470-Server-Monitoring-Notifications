@@ -34,3 +34,8 @@ The Server Monitoring Notifications app will be tested using an Android device. 
   
 * Admin user will need to set up the Firestore Cloud Messaging.  
 
+## Getting Started
+* User sign in to the android app using his/her email/password combination created by the Admin user. User has the option to set a new password.
+* Admin user starts the Spring Booot micro services to send the server monitoring notifications. 
+
+
