@@ -58,10 +58,10 @@ As a **Malicious User**, I want to **inject fake notifications**, so I can **ale
 
 **Architecture diagram**
 
-![Architecture diagram](images/architecture_diagram.jpg "Architecture diagram")<br/><br/>
+![Architecture diagram](images/architecture_diagram.jpg "Architecture diagram")<br/><br/><br/><br/>  
 
-![System Context diagram](images/System_Context.jpg "System Context diagram")<br/><br/>
+![System Context diagram](images/System_Context.jpg "System Context diagram")<br/><br/><br/><br/>  
 
-![Container diagram](images/Containers.jpg "Container diagram")<br/><br/>
+![Container diagram](images/Containers.jpg "Container diagram")<br/><br/><br/><br/>  
 
-![Component diagram](images/Components.jpg "Component diagram")<br/><br/>
+![Component diagram](images/Components.jpg "Component diagram")<br/><br/><br/><br/>  
