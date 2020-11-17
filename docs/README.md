@@ -60,3 +60,8 @@ As a **Malicious User**, I want to **inject fake notifications**, so I can **ale
 
 ![Architecture diagram](images/architecture_diagram.jpg "Architecture diagram")
 
+![System Context diagram](images/System_Context.jpg "System Context diagram")
+
+![Container diagram](images/Containers.jpg "Container diagram")
+
+![Component diagram](images/Components.jpg "Component diagram")
