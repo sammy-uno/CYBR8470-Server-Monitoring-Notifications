@@ -54,6 +54,7 @@ See below the different views of the application architecture diagrams including
 As mentioned from the executive summary, Flutter/Dart frameworks build cross-platform mobile and web apps from the same source code.
 The architecture diagrams include all the cross platform apps but only Android mobile app will be finalized and tested.
 Also, the functionality of sending a user notification acknowledgment to other app users will be added and developed if time permits.  
+<br/>
 
 **Mockup pages**
 <br/>
