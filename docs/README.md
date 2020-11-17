@@ -51,31 +51,32 @@ As a **Malicious User**, I want to **inject fake notifications**, so I can **ale
 ## Diagrams
 
 **Mockup pages**
+<br/>
 
 ![Mockup pages](images/mockup_pages.jpg "Mockup pages") 
   
- <br/> 
+<br/> 
 
 **Architecture diagram**  
-
+<br/>
 ![Architecture diagram](images/architecture_diagram.jpg "Architecture diagram")    
 <br/>
 <br/>
 
 **System Context diagram**  
-
+<br/>
 ![System Context diagram](images/System_Context.jpg "System Context diagram")  
 <br/>
 <br/>
 
 **Container diagram**  
-
+<br/>
 ![Container diagram](images/Containers.jpg "Container diagram")  
 <br/>
 <br/>
 
 **Component diagram**  
-
+<br/>
 ![Component diagram](images/Components.jpg "Component diagram")  
 <br/>
 <br/>
