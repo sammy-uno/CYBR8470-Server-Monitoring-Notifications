@@ -34,7 +34,7 @@ As a **Admin**, I want to **have access to the app Firebase console**, so I can 
    * Admin user has read/write access to the Firebase console and can manage the app Firebase services. 
 
 ## Mis-user stories
-I will assume that server monitoring notifications have sensitive informations like server names et they can not be read by any user.
+I will assume that server monitoring notifications have sensitive informations like server names and they can not be read by any user.
 
 As a **Malicious User**, I want to **hack access to the app using someone else's email address by resetting the password**, so I can **log in to the app and review the server notifications**.  
 **Mitigation criteria**
@@ -52,7 +52,9 @@ As a **Malicious User**, I want to **inject fake notifications**, so I can **ale
 
 **Mockup pages**
 
-![Mockup pages](images/mockup_pages.jpg "Mockup pages")  
+![Mockup pages](images/mockup_pages.jpg "Mockup pages") 
+  
+ <br/> 
 
 **Architecture diagram**
 
