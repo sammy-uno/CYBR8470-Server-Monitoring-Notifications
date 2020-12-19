@@ -50,13 +50,39 @@ As a **Malicious User**, I want to **inject fake notifications**, so I can **ale
    
 ## Diagrams
 
+See below the different views of the application architecture diagrams including the 3 C’s - Context, Container, and Component diagrams.
+As mentioned from the executive summary, Flutter/Dart frameworks build cross-platform mobile and web apps from the same source code.
+The architecture diagrams include all the cross platform apps but only Android mobile app will be finalized and tested.
+Also, the functionality of sending a user notification acknowledgment to other app users will be added and developed if time permits.  
+<br/>
+
 **Mockup pages**
+<br/>
 
 ![Mockup pages](images/mockup_pages.jpg "Mockup pages") 
   
- <br/> 
+<br/> 
 
-**Architecture diagram**
+**Notification software architecture diagram**  
+<br/>
+![Notification software architecture diagram](images/architecture_diagram.jpg "Notification software architecture diagram")    
+<br/>
+<br/>
 
-![Architecture diagram](images/architecture_diagram.jpg "Architecture diagram")
+**System Context diagram**  
+<br/>
+![System Context diagram](images/System_Context.jpg "System Context diagram")  
+<br/>
+<br/>
 
+**Container diagram**  
+<br/>
+![Container diagram](images/Containers.jpg "Container diagram")  
+<br/>
+<br/>
+
+**Component diagram**  
+<br/>
+![Component diagram](images/Components.jpg "Component diagram")  
+<br/>
+<br/>
