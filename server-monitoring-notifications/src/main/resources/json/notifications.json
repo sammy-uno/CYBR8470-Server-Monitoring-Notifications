@@ -1,0 +1,19 @@
+[
+	{
+	    "dateTime": "2020-12-18 18:00:00",
+		"summary": "Disk space is 90% full",
+		"serverName": "prodServer1",
+		"processName": "writeUserData",
+		"severity": "High",
+		"detail": "Disk space is 90% full. Purge old log files from folder \"/opt/logs\" to free up space"
+	},
+	{
+		"dateTime": "2020-12-18 18:30:00",
+		"summary": "Process $postTrxns is down",
+		"serverName": "prodServer2",
+		"processName": "postTrxns",
+		"severity": "High",
+		"detail": "Process $postTrxns is down. Check logs and restart it"
+	}
+]
+ 
